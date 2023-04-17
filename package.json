@@ -1,0 +1,23 @@
+{
+  "name": "handle-promise",
+  "version": "1.0.0",
+  "description": "手撕promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ellanwang/handle-promise.git"
+  },
+  "keywords": [
+    "promise",
+    "手写代码"
+  ],
+  "author": "ellan",
+  "license": " MIT",
+  "bugs": {
+    "url": "https://github.com/Ellanwang/handle-promise/issues"
+  },
+  "homepage": "https://github.com/Ellanwang/handle-promise#readme"
+}
